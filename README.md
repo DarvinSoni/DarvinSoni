@@ -21,6 +21,7 @@
 #  GitHub Stats:
 
 
+![snake](https://raw.githubusercontent.com/DarvinSoni/DarvinSoni/output/github-contribution-grid-snake-dark.svg)
 
 
 ###  Random Dev Quote
