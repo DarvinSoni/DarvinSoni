@@ -1,7 +1,8 @@
-# HEllo:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1200&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+there+!;I'm+Darvin+Soni;)
+
 --> I’m currently working on Quantum Password Analyzer<br>--> I’m looking to collaborate on Projects related to Security<br>--> I’m currently learning Cyber Defense<br>--> Ask me about Bug Bounties, Pentesting<br>--> Fun fact : A jack of all trades is a master of none, but oftentimes better than a master of one
 
-
+<img src="https://komarev.com/ghpvc/?username=DarvinSoni&label=Profile+Views&color=00ff00&style=flat" />
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darvin-soni-770499297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darvinsony123@gmail.com) 
 
