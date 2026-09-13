@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1200&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+there+!;I'm+Darvin+Soni;)
 
---> I’m currently working on Quantum Password Analyzer<br>--> I’m looking to collaborate on Projects related to Security<br>--> I’m currently learning Cyber Defense<br>--> Ask me about Bug Bounties, Pentesting<br>--> Fun fact : A jack of all trades is a master of none, but oftentimes better than a master of one
+--> I’m currently working on Post Quantum Cryptographic Log Encryption<br>--> I’m looking to collaborate on Projects related to Security<br>--> I’m currently learning Cyber Defense<br>--> Ask me about Bug Bounties, Pentesting<br>--> Fun fact : A jack of all trades is a master of none, but oftentimes better than a master of one
 
 <img src="https://komarev.com/ghpvc/?username=DarvinSoni&label=Profile+Views&color=00ff00&style=flat" />
 
